@@ -1,0 +1,11 @@
+# Textures packed with a simple packer
+# Made in Blockbench 4.10.4
+newmtl m_1d00d262-0c24-720b-1d75-c521b7223de5
+map_Kd bighouse_packed_full.png
+newmtl m_308c60b4-772d-f59f-6516-a95e0f4a87ad
+map_Kd bighouse_packed_full.png
+newmtl m_1745990e-c14b-c4c1-30e4-2e96b143c35b
+map_Kd bighouse_packed_full.png
+newmtl m_aba5f3b3-dec1-6c6a-668c-1753a92cb66a
+map_Kd bighouse_packed_full.png
+newmtl none

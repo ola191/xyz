@@ -1,0 +1,9 @@
+# Textures packed with a simple packer
+# Made in Blockbench 4.10.4
+newmtl m_cb8033ae-de18-905f-59e5-b4d4e9d87c84
+map_Kd house_packed_full.png
+newmtl m_1d00d262-0c24-720b-1d75-c521b7223de5
+map_Kd house_packed_full.png
+newmtl m_1745990e-c14b-c4c1-30e4-2e96b143c35b
+map_Kd house_packed_full.png
+newmtl none
